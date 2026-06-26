@@ -1,4 +1,4 @@
-# Hi, I'm Prince Kumar Upadhyay 👋
+# Hi, I'm Prince Kumar Upadhyay 
 ### B.Tech Computer Science & Engineering Graduate (2026)
 
 <p align="left">
@@ -12,34 +12,32 @@
 
 ---
 
-## 💫 About Me
-I am a B.Tech Computer Science & Engineering graduate (Class of 2026) from Swami Vivekanand Subharti University (SVSU), Meerut, India. I have a strong foundation in building responsive full-stack applications with the MERN stack and developing applications in Java. I focus on writing clean, modular code with a solid understanding of OOP design, Data Structures & Algorithms, and database systems (SQL and NoSQL).
+## About Me
 
-In addition to core software development, I have a growing interest in cybersecurity, network security, and application security practices. I also build automated workflows using n8n to streamline developer operations.
+I am a **B.Tech Computer Science & Engineering Graduate (Class of 2026)** from **Swami Vivekanand Subharti University (SVSU), Meerut, India**. I have a strong foundation in **Java Programming, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS)**, and modern **Full-Stack Web Development** using the **MERN Stack**. I enjoy building responsive, scalable, and user-centric web applications while continuously enhancing my software engineering skills.
 
-* 🚀 **Current Focus:** Full-stack systems development, web platform security, and workflow automation.
-* 💻 **Primary Stack:** React.js, Node.js, Express.js, MongoDB, Java, MySQL, and n8n.
-* 🎓 **Goal:** Seeking Associate Software Engineer or Full-Stack Developer opportunities.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), SQL |
-| **Frontend** | React.js, HTML5, CSS3, Responsive Web Design, Bootstrap, TailwindCSS |
-| **Backend & Databases** | Node.js, Express.js, MongoDB (Mongoose), MySQL, RESTful APIs |
-| **CS Foundations** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), DBMS, OS, Computer Networks |
-| **Workflow Automation** | n8n Workflow Automation |
-| **Areas of Interest** | Cybersecurity, Ethical Hacking, OSINT, Network Security, Application Security |
-| **Tools & Platforms** | Git, GitHub, Postman, Visual Studio Code, Vercel, Render |
+*  **Current Focus:** Full-Stack Web Development, Java Development, and Problem Solving.
+*  **Technical Skills:** Java, DSA, OOP, HTML5, CSS3, JavaScript, React.js, MongoDB, MySQL, SQL, DBMS, Git, and GitHub.
+*  **Career Objective:** Seeking opportunities as an **Associate Software Engineer, Software Engineer, Full-Stack Developer, Java Developer, or Backend Developer**, where I can contribute to building scalable software solutions while continuously learning and growing as a software engineering professional.
 
 ---
 
-## 🏆 Featured Project
+##  Tech Stack & Skills
 
-### 📰 [Trillioty Prime (News & Discussion Platform)](https://github.com/PrinceUpadhyay309/trillioty-prime)
+| **Domain**                | **Technologies**                                                                                                                                     |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages** | Java, JavaScript, SQL                                                                                                                                |
+| **Frontend Development**  | HTML5, CSS3, React.js, Responsive Web Design                                                                                                         |
+| **Databases**             | MongoDB (Mongoose), MySQL                                                                                                                            |
+| **Core Computer Science** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks |
+| **Tools & Platforms**     | Git, GitHub, Visual Studio Code                                                                                                                      |
+| **Areas of Interest**     | Software Engineering, Full-Stack Development, Java Development, Web Technologies                                                                     |
+
+---
+
+##  Featured Project
+
+###  [Trillioty Prime (News & Discussion Platform)](https://github.com/PrinceUpadhyay309/trillioty-prime)
 *A full-stack digital news agency, magazine portal, and community forum board.*
 
 * **Architecture:** Structured MVC MERN pattern featuring responsive layouts, an active breaking news ticker, and read-depth tracking.
@@ -49,7 +47,7 @@ In addition to core software development, I have a growing interest in cybersecu
 
 ---
 
-## 📊 Github Metrics
+##  Github Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrinceUpadhyay309&show_icons=true&theme=dark&hide_border=true&bg_color=1E2228&title_color=DC2626&icon_color=DC2626&text_color=ABB2BF" alt="Prince's GitHub Stats" width="48%" />
