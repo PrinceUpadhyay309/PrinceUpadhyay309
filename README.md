@@ -1,4 +1,8 @@
-# Hi, I'm Prince Kumar Upadhyay 
+<p align="center">
+  <img src="banner.png" alt="Prince Kumar Upadhyay | B.Tech CSE Graduate | Full-Stack & Java Developer" width="100%">
+</p>
+
+# Hi, I'm Prince Kumar Upadhyay 👋
 ### B.Tech Computer Science & Engineering Graduate (2026)
 
 <p align="left">
